@@ -10,6 +10,7 @@ Welcome to our project! In this project, I applied a modified version of the Sof
 ![Bipedal Walker](cvhm34-agent-video,episode=1100,score=324.gif)
 
 - **Hardcore Environment**: Achieved a reward of 300 at episode 1296, demonstrating proficiency in a challenging setting.
+![Bipedal Walker](cvhm34-agent-hardcore-video,episode=2160,score=304.gif)
 
 ## 🛠 Installation and Usage
 
