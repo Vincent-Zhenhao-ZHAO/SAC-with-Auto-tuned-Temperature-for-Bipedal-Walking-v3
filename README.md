@@ -8,10 +8,12 @@ Welcome to the exploration of bipedal locomotion mastery in the Bipedal-Walking-
 
 ### Standard Environment
 Achieved a noteworthy score of **300** at episode **117**, demonstrating a promising convergence in the initial 200 episodes.
+
 ![Standard Environment Bipedal Walker](cvhm34-agent-video,episode=1100,score=324.gif)
 
 ### Hardcore Environment
 Successfully garnered a reward of **300** at episode **1296**, showcasing adept capabilities in navigating through a notably challenging scenario.
+
 ![Hardcore Environment Bipedal Walker](cvhm34-agent-hardcore-video,episode=2160,score=304.gif)
 
 ## 🛠 Installation and Usage
