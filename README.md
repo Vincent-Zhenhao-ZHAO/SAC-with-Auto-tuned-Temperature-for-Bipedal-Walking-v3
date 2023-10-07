@@ -1,28 +1,31 @@
-# SAC with Auto-tuned Temperature for Bipedal Walking v3
+# 🤖 SAC with Auto-tuned Temperature for Bipedal Walking v3
 
 ## 🚀 Introduction
 
-Welcome to our project! In this project, I applied a modified version of the Soft Actor-Critic (SAC) as part of my Reinforcement Learning course, the aim of the coursework is to master the complexities of bipedal locomotion in the Bipedal-Walking-v3 environment.
+Welcome to the exploration of bipedal locomotion mastery in the Bipedal-Walking-v3 environment! This project encompasses the application of a modified Soft Actor-Critic (SAC) algorithm as a part of my Reinforcement Learning course, aiming to skillfully navigate through the challenges and complexities of bipedal movement.
 
-## 🎯 Achievements
+## 🏆 Achievements 
 
-- **Standard Environment**: Rapid convergence with a score of 300 at episode 117, shows convergence at the beginning of the 200 episode.
-![Bipedal Walker](cvhm34-agent-video,episode=1100,score=324.gif)
+### Standard Environment
+Achieved a noteworthy score of **300** at episode **117**, demonstrating a promising convergence in the initial 200 episodes.
+![Standard Environment Bipedal Walker](cvhm34-agent-video,episode=1100,score=324.gif)
 
-- **Hardcore Environment**: Achieved a reward of 300 at episode 1296, demonstrating proficiency in a challenging setting.
-![Bipedal Walker](cvhm34-agent-hardcore-video,episode=2160,score=304.gif)
+### Hardcore Environment
+Successfully garnered a reward of **300** at episode **1296**, showcasing adept capabilities in navigating through a notably challenging scenario.
+![Hardcore Environment Bipedal Walker](cvhm34-agent-hardcore-video,episode=2160,score=304.gif)
 
 ## 🛠 Installation and Usage
 
 ### Prerequisites
+Ensure the availability of the following before proceeding:
 
 - Python 3.x
 - [OpenAI Gym](https://gym.openai.com/)
 - [PyTorch](https://pytorch.org/)
 
-### Setup and Run
+### Get Started
+Execute the following commands in your terminal to set up and run the project:
 
 ```bash
 git clone [repository_url]
 cd SAC-with-Auto-tuned-Temperature-for-Bipedal-Walking-v3
-run cvhm34-agent-code.ipynb
