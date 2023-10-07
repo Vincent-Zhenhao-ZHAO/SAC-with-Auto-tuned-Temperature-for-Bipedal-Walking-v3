@@ -4,6 +4,10 @@
 
 Welcome to the exploration of bipedal locomotion mastery in the Bipedal-Walking-v3 environment! This project encompasses the application of a modified Soft Actor-Critic (SAC) algorithm as a part of my Reinforcement Learning course, aiming to skillfully navigate through the challenges and complexities of bipedal movement.
 
+## 📜 Abstract from the Paper
+
+> _"This paper implements Soft Actor-Critic(SAC) in both standard and hardcore versions of BipedalWalker-v3 by adjusting the learning rate and reward scale. Both versions achieved over 300 points at episodes 117 and 1296 respectively. While the standard version converged within 200 episodes, it was difficult to determine if the hardcore version converged due to frequent crashes of the NVIDIA CUDA Center (NCC) and limited time. Future work should focus on running the agent in a more stable environment and exploring adaptive learning rate methods to optimize performance in complex environments."_ 
+
 ## 🏆 Achievements 
 
 ### Standard Environment
